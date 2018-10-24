@@ -1,7 +1,7 @@
 <Grain><_MOD_>2016-09-30</_MOD_>
 <Name>Grain</Name>
 <Type>7406</Type>
-<Dirty>0</Dirty>
+<Dirty>1</Dirty>
 <Owndata>0</Owndata>
 <TID>7406</TID>
 <Size>104</Size>
@@ -2229,13 +2229,13 @@ Adds a toasted, biscuit like flavor and aroma</F_G_NOTES>
 <F_G_PRICE>0.0800000</F_G_PRICE>
 <F_G_CONVERT_GRAIN>Caravienne Malt</F_G_CONVERT_GRAIN>
 </Grain>
-<Grain><_MOD_>2003-06-14</_MOD_>
+<Grain><_MOD_>2018-10-24</_MOD_>
 <F_G_NAME>Acid Malt</F_G_NAME>
 <F_G_ORIGIN>Germany</F_G_ORIGIN>
 <F_G_SUPPLIER></F_G_SUPPLIER>
 <F_G_TYPE>0</F_G_TYPE>
 <F_G_IN_RECIPE>0</F_G_IN_RECIPE>
-<F_G_INVENTORY>0.0000000</F_G_INVENTORY>
+<F_G_INVENTORY>35.2739680</F_G_INVENTORY>
 <F_G_AMOUNT>0.0000000</F_G_AMOUNT>
 <F_G_COLOR>3.0000000</F_G_COLOR>
 <F_G_YIELD>58.7000000</F_G_YIELD>
